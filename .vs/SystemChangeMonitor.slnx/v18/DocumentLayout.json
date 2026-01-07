@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\agent log\\SystemChangeMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\agent log\\SystemChangeMonitor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\agent log\\SystemChangeMonitor\\Monitors\\RegistryMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Monitors\\RegistryMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\agent log\\SystemChangeMonitor\\SystemChangeMonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SystemChangeMonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\agent log\\SystemChangeMonitor\\Monitors\\ServiceMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Monitors\\ServiceMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\agent log\\SystemChangeMonitor\\Monitors\\WindowsEventMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Monitors\\WindowsEventMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\agent log\\SystemChangeMonitor\\Logging\\LogManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logging\\LogManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\agent log\\SystemChangeMonitor\\Monitors\\FileSystemMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Monitors\\FileSystemMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\agent log\\SystemChangeMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\agent log\\SystemChangeMonitor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:06:16.339Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "D:\\agent log\\SystemChangeMonitor\\Logging\\LogManager.cs",
+              "RelativeDocumentMoniker": "Logging\\LogManager.cs",
+              "ToolTip": "D:\\agent log\\SystemChangeMonitor\\Logging\\LogManager.cs",
+              "RelativeToolTip": "Logging\\LogManager.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAAACwBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:17:00.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowsEventMonitor.cs",
+              "DocumentMoniker": "D:\\agent log\\SystemChangeMonitor\\Monitors\\WindowsEventMonitor.cs",
+              "RelativeDocumentMoniker": "Monitors\\WindowsEventMonitor.cs",
+              "ToolTip": "D:\\agent log\\SystemChangeMonitor\\Monitors\\WindowsEventMonitor.cs",
+              "RelativeToolTip": "Monitors\\WindowsEventMonitor.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:16:56.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceMonitor.cs",
+              "DocumentMoniker": "D:\\agent log\\SystemChangeMonitor\\Monitors\\ServiceMonitor.cs",
+              "RelativeDocumentMoniker": "Monitors\\ServiceMonitor.cs",
+              "ToolTip": "D:\\agent log\\SystemChangeMonitor\\Monitors\\ServiceMonitor.cs",
+              "RelativeToolTip": "Monitors\\ServiceMonitor.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:16:55.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistryMonitor.cs",
+              "DocumentMoniker": "D:\\agent log\\SystemChangeMonitor\\Monitors\\RegistryMonitor.cs",
+              "RelativeDocumentMoniker": "Monitors\\RegistryMonitor.cs",
+              "ToolTip": "D:\\agent log\\SystemChangeMonitor\\Monitors\\RegistryMonitor.cs",
+              "RelativeToolTip": "Monitors\\RegistryMonitor.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:16:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemChangeMonitor.csproj",
+              "DocumentMoniker": "D:\\agent log\\SystemChangeMonitor\\SystemChangeMonitor.csproj",
+              "RelativeDocumentMoniker": "SystemChangeMonitor.csproj",
+              "ToolTip": "D:\\agent log\\SystemChangeMonitor\\SystemChangeMonitor.csproj",
+              "RelativeToolTip": "SystemChangeMonitor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T15:16:47.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileSystemMonitor.cs",
+              "DocumentMoniker": "D:\\agent log\\SystemChangeMonitor\\Monitors\\FileSystemMonitor.cs",
+              "RelativeDocumentMoniker": "Monitors\\FileSystemMonitor.cs",
+              "ToolTip": "D:\\agent log\\SystemChangeMonitor\\Monitors\\FileSystemMonitor.cs",
+              "RelativeToolTip": "Monitors\\FileSystemMonitor.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:16:58.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
